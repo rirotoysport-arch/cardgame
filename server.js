@@ -46,7 +46,7 @@ const io = new Server(httpServer, {
     origin: [
       "https://www.osinvictos.com.br",
       "https://osinvictos.com.br",
-      "https://guaranifc.onrender.com",
+      "https://fifa26.onrender.com",
       "localhost:10000",
       "*"
     ],
